@@ -6,15 +6,15 @@ This was presented by Chris Campbell of [Mango Solutions](http://www.mango-solut
 
 The workshop consisted of a [presentation](./Introduction to Shiny.pptx) and a few excerises to work through, the code for each excercise is included within separate directories. 
 
-To run the examples, use:
+To run the examples from R, use:
 
-```
+```r
 shiny::runGitHub("EdinbR/mango-shiny-workshop", subdir="Exercise1")
 ```
 
 Or clone the repository and look at the code yourself:
 
-```
+```sh
 git clone git://github.com/EdinbR/mango-shiny-workshop
 cd mango-shiny-workshop/
 ```
